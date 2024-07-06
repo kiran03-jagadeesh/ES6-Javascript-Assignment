@@ -18,6 +18,9 @@ const name = "Alice";
 
 // name = "Bob"; // This will throw an error
 
+## Output:
+![output](1.png)
+
 ## Exercise 2: Arrow Functions
 ## Problem Statement:
 
@@ -37,6 +40,9 @@ Arrow functions provide a concise syntax and lexically bind the this value.
 
 const add = (a, b) => a + b;
 
+## Output:
+![output](2.png)
+
 ## Exercise 3: Template Literals
 ## Problem Statement:
 
@@ -49,6 +55,9 @@ Template literals allow embedded expressions and multi-line strings.
 ## Solution:
 
 console.log(`Hello, ${name}! Your age is ${age}.`);
+
+## Output:
+![output](3.png)
 
 ## Exercise 4: Destructuring Objects
 ## Problem Statement:
@@ -65,6 +74,9 @@ const person = { firstName: "Alice", lastName: "Johnson" };
 
 const { firstName, lastName } = person;
 
+## Output:
+![output](4.png)
+
 ## Exercise 5: Destructuring Arrays
 ## Problem Statement:
 
@@ -79,6 +91,8 @@ Array destructuring works similarly to object destructuring but with array eleme
 const numbers = [1, 2, 3, 4, 5];
 
 const [first, second] = numbers;
+## Output:
+![output](5.png)
 
 ## Exercise 6: Spread Operator
 ## Problem Statement:
@@ -97,6 +111,9 @@ const arr2 = [4, 5, 6];
 
 const combined = [...arr1, ...arr2];
 
+## Output:
+![output](6.png)
+
 ## Exercise 7: Rest Parameters
 ## Problem Statement:
 
@@ -110,6 +127,9 @@ Rest parameters allow us to represent an indefinite number of arguments as an ar
 
 const sum = (...numbers) => numbers.reduce((acc, current) => acc + current, 0);
 
+## Output:
+![output](7.png)
+
 ## Exercise 8: Default Parameters
 ## Problem Statement:
 
@@ -122,6 +142,9 @@ Default function parameters allow named parameters to be initialized with defaul
 ## Solution:
 
 const greet = (name, greeting = "Hello") => ${greeting}, ${name}!;
+
+## Output:
+![output](8.png)
 
 ## Exercise 9: Classes and Inheritance
 ## Problem Statement:
@@ -153,3 +176,6 @@ return Woof! My name is ${this.name};
 }
 
 }
+
+## Output:
+![output](9.png)
